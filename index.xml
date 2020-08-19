@@ -12,5 +12,242 @@
       <link>https://kirilsol.github.io/</link>
     </image>
     
+    <item>
+      <title>Publications</title>
+      <link>https://kirilsol.github.io/publications/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://kirilsol.github.io/publications/</guid>
+      <description>&lt;h2 id=&#34;manuscripts-and-under-review&#34;&gt;Manuscripts and under review&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Saptarshi Bandyopadhyay, Federico Rossi,
+Michael T. Wolf, and Marco Pavone, &amp;ldquo;Fast Near-Optimal Heterogeneous Task Allocation via Flow Decomposition&amp;rdquo;, 2020. [
+&lt;a href=&#34;files/Solovey.Bandyopadhyay.ETAL.2020.pdf&#34;&gt;pdf&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;Shushman Choudhury, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Mykel Kochenderfer, and Marco
+Pavone, &amp;ldquo;Efficient Large-Scale Multi-Drone Delivery Using Transit
+Networks&amp;rdquo;, submitted to &lt;em&gt;Journal of Artificial Intelligence Research&lt;/em&gt;, 2020. [videos: 
+&lt;a href=&#34;https://youtu.be/2U8jI-n9Ulk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;short&lt;/a&gt;, 
+&lt;a href=&#34;https://www.youtube.com/watch?v=w7b6a-Rzu3o&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;long&lt;/a&gt;], 
+&lt;a href=&#34;https://arxiv.org/abs/1909.11840&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;   &lt;br&gt;
+&lt;strong&gt;Press:&lt;/strong&gt; 
+&lt;a href=&#34;https://www.newscientist.com/article/2221652-delivery-drones-could-land-on-public-transport-to-extend-their-range/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New Scientist&lt;/a&gt;, 
+&lt;a href=&#34;https://venturebeat.com/2020/06/03/stanford-lab-envisions-delivery-drones-that-save-energy-by-taking-the-bus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Venture Beat&lt;/a&gt;, 
+&lt;a href=&#34;https://www.bbc.co.uk/sounds/play/w3csz980&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BBC Digital Planet&lt;/a&gt;, 
+&lt;a href=&#34;https://spectrum.ieee.org/automaton/robotics/drones/delivery-drones-could-hitchhike-on-public-transit-to-massively-expand-their-range&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Spectrum&lt;/a&gt;, 
+&lt;a href=&#34;https://newatlas.com/drones/delivery-drones-quadruple-range-bus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New Atlas&lt;/a&gt;, and 
+&lt;a href=&#34;https://interestingengineering.com/your-delivery-drones-could-soon-be-taking-the-bus-to-save-both-time-and-fuel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Interesting Engineering&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Rahul Shome, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Jingjin Yu, Dan Halperin, and Kostas
+Bekris, &amp;ldquo;Fast, High-Quality Dual-Arm Rearrangement in Synchronous,
+Monotone Tabletop Setups&amp;rdquo;, submitted to a special issue
+&lt;strong&gt;(invited)&lt;/strong&gt; of &lt;em&gt;Transactions on Automation Science and
+Engineering&lt;/em&gt;, 2020. 
+&lt;a href=&#34;https://arxiv.org/abs/1810.12202&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;, &amp;ldquo;Complexity of Planning&amp;rdquo; in Section &amp;ldquo;Motion
+Planning&amp;rdquo;, in the &lt;em&gt;Encyclopedia of Robotics&lt;/em&gt;, Eds. Marcelo H. Ang
+Jr., Oussama Khatib, and Bruno Siciliano; Section Ed. Lydia
+E. Kavraki. Springer Press. Submitted, 2020. 
+&lt;a href=&#34;https://arxiv.org/abs/2003.03632&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;journals&#34;&gt;Journals&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Robin Brown, Federico Rossi, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;,  Matthew Tsao, Michael T. Wolf, and   Marco Pavone, &amp;ldquo;On Local Computation for Optimization in Multi-Agent Systems&amp;rdquo;, &lt;em&gt;Transactions on Control of Network Systems&lt;/em&gt;, to appear, 2020. 
+&lt;a href=&#34;https://arxiv.org/abs/2002.12313&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt; and Michal Kleinbort, &amp;ldquo;The Critical Radius
+in Sampling-Based Motion Planning&amp;rdquo;, special issue of &lt;em&gt;International Journal of Robotics Research&lt;/em&gt; (&lt;strong&gt;invited&lt;/strong&gt;), 2020.&lt;/li&gt;
+&lt;li&gt;Michal Kleinbort, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Zakary Littlefield, Kostas
+Bekris, and Dan Halperin, &amp;ldquo;Probabilistic completeness of RRT for
+geometric and kinodynamic planning with forward propagation.&amp;rdquo;
+&lt;em&gt;IEEE Robotics and Automation Letters&lt;/em&gt;, 2019.&lt;/li&gt;
+&lt;li&gt;Rahul Shome, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Andrew Dobson, Dan Halperin
+and Kostas E. Bekris, &amp;ldquo;dRRT*: Scalable and Informed Asymptotically-Optimal Multi-Robot
+Motion Planning&amp;rdquo;, &lt;em&gt;Autonomous Robots&lt;/em&gt; , special issue
+(&lt;strong&gt;invited&lt;/strong&gt;), 2019. 
+&lt;a href=&#34;https://link.springer.com/article/10.1007/s10514-019-09832-9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Aviel Atias, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, and Dan Halperin, &amp;ldquo;Effective
+Metrics for Multi-Robot Motion-Planning&amp;rdquo;, &lt;em&gt;International Journal on
+Robotics Research&lt;/em&gt; , special issue (&lt;strong&gt;invited&lt;/strong&gt;), 2018.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Oren Salzman and Dan Halperin, &amp;ldquo;New Perspective
+on Sampling-Based Motion Planning via Random Geometric Graphs&amp;rdquo;,
+&lt;em&gt;International Journal on Robotics Research&lt;/em&gt; , special issue
+(&lt;strong&gt;invited&lt;/strong&gt;), 2018.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt; and Dan Halperin, &amp;ldquo;On the Hardness of
+Unlabeled Multi-Robot Motion Planning&amp;rdquo;, &lt;em&gt;International Journal
+on Robotics Research&lt;/em&gt;, special issue (&lt;strong&gt;invited&lt;/strong&gt;), 2016.&lt;/li&gt;
+&lt;li&gt;Oren Salzman, &lt;strong&gt;Kiril Solovey&lt;/strong&gt; and Dan Halperin, &amp;ldquo;Motion
+Planning for Multi-Link Robots by Implicit Configuration-Space
+Tiling&amp;rdquo;, &lt;em&gt;IEEE Robotics and Automation Letters&lt;/em&gt;, 2016.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;*, Oren Salzman* and Dan Halperin (*equal
+contribution), &amp;ldquo;Finding a Needle in an Exponential Haystack:
+Discrete RRT for Exploration of Implicit Roadmaps in
+Multi-Robot Motion Planning&amp;rdquo;, &lt;em&gt;International Journal on
+Robotics Research&lt;/em&gt; , special issue (&lt;strong&gt;invited&lt;/strong&gt;), 2016.&lt;/li&gt;
+&lt;li&gt;Aviv Adler, Mark de Berg, Dan Halperin and &lt;strong&gt;Kiril Solovey&lt;/strong&gt;
+(alphabetical order), &amp;ldquo;Efficient Multi-Robot Motion Planning
+for Unlabeled Discs in Simple Polygons&amp;rdquo;, &lt;em&gt;Transactions on
+Automation Science and Engineering&lt;/em&gt;, special issue
+(&lt;strong&gt;invited&lt;/strong&gt;), 2015.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt; and Dan Halperin, &amp;ldquo;&lt;em&gt;k&lt;/em&gt;-Color Multi-Robot Motion
+Planning&amp;rdquo;, &lt;em&gt;International Journal on Robotics Research&lt;/em&gt;, special
+issue (&lt;strong&gt;invited&lt;/strong&gt;), 2014.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;peer-reviewed-conference-proceedings&#34;&gt;Peer-reviewed conference proceedings&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Matthew Tsao, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, and Marco Pavone, &amp;ldquo;Sample
+Complexity of Probabilistic Roadmaps via Epsilon-nets&amp;rdquo;, in  &lt;em&gt;International Conference on Robotics and Automation&lt;/em&gt;, 2020. [
+&lt;a href=&#34;https://www.youtube.com/watch?v=dk3zduYNMYk&amp;amp;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;], 
+&lt;a href=&#34;https://arxiv.org/abs/1909.06363&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Shushman Choudhury, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Mykel Kochenderfer, and Marco
+Pavone, &amp;ldquo;Efficient Large-Scale Multi-Drone Delivery Using Transit
+Networks&amp;rdquo;, in &lt;em&gt;International Conference on Robotics and
+Automation&lt;/em&gt;, &lt;strong&gt;best multi-robot systems
+paper (finalist)&lt;/strong&gt;, 2020. 
+&lt;a href=&#34;https://arxiv.org/abs/1909.11840&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Michal Kleinbort, Edgar Granados, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Riccardo Bonalli, Kostas
+Bekris, and Dan Halperin, &amp;ldquo;Refined Analysis of Asymptotically-Optimal Kinodynamic Planning in the State-Cost Space&amp;rdquo;, in &lt;em&gt;International Conference on Robotics and
+Automation&lt;/em&gt;, 2020. 
+&lt;a href=&#34;https://arxiv.org/abs/1909.05569&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Lucas Janson, Edward Schmerling, Emilio Frazzoli,
+and Marco Pavone, &amp;ldquo;Revisiting the Asymptotic Optimality of RRT*&amp;rdquo;,
+in &lt;em&gt;International Conference on Robotics and Automation&lt;/em&gt;, 2020. [
+&lt;a href=&#34;https://www.youtube.com/watch?v=SG9irSYCr7E&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;], 
+&lt;a href=&#34;https://arxiv.org/abs/1909.09688&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Robin Brown, Federico Rossi, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Michael T. Wolf, and
+Marco Pavone, &amp;ldquo;Exploiting Locality and Structure for Distributed
+Optimization in Multi-Agent Systems&amp;rdquo;, in &lt;em&gt;European Control
+Conference&lt;/em&gt;, &lt;strong&gt;best
+student paper (finalist)&lt;/strong&gt; 2020. 
+&lt;a href=&#34;https://arxiv.org/abs/2002.12313&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Mauro Salazar, and Marco Pavone, &amp;ldquo;Scalable and
+Congestion-aware Routing for Autonomous Mobility-on-Demand via
+Frank-Wolfe Optimization&amp;rdquo;, in &lt;em&gt;Robotics: Science and
+Systems&lt;/em&gt;, 2019. 
+&lt;a href=&#34;https://arxiv.org/abs/1903.03697&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;, 
+&lt;a href=&#34;files/slides-2019-fw-amod.pdf&#34;&gt;[slides]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Michal Kleinbort, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Zakary Littlefield, Kostas
+Bekris, and Dan Halperin, &amp;ldquo;Probabilistic completeness of RRT for
+geometric and kinodynamic planning with forward propagation.&amp;rdquo; In
+&lt;em&gt;International Conference on Robotics and Automation&lt;/em&gt;, 2019.&lt;/li&gt;
+&lt;li&gt;Rahul Shome, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Jingjin Yu, Dan Halperin and Kostas Bekris,
+&amp;ldquo;Fast, High-Quality Dual-Arm Rearrangement in Synchronous, Monotone Tabletop Setups.&amp;rdquo;
+In &lt;em&gt;Workshop on the Algorithmic Foundations of Robotics&lt;/em&gt;, 2018.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt; and Michal Kleinbort, &amp;ldquo;The Critical Radius
+in Sampling-Based Motion Planning&amp;rdquo;, in &lt;em&gt;Robotics:
+Science and Systems&lt;/em&gt;, 2018.&lt;/li&gt;
+&lt;li&gt;Andrew Dobson, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Rahul Shome, Dan Halperin
+and Kostas Bekris, &amp;ldquo;Scalable Asymptotically-Optimal
+Multi-Robot Motion Planning&amp;rdquo;, in &lt;em&gt;International
+Symposium on Multi-Robot and Multi-Agent Systems&lt;/em&gt;, &lt;strong&gt;best
+paper&lt;/strong&gt;, 2017.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt; and Dan Halperin, &amp;ldquo;Efficient Sampling-Based
+Bottleneck Pathfinding over Cost Maps&amp;rdquo;, in &lt;em&gt;International
+Conference on Intelligent Robots and Systems&lt;/em&gt;, 2017.&lt;/li&gt;
+&lt;li&gt;Aviel Atias, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, and Dan Halperin, &amp;ldquo;Effective
+Metrics for Multi-Robot Motion-Planning&amp;rdquo;, in  &lt;em&gt;Robootics: Science and Systems&lt;/em&gt;, 2017.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt; and Dan Halperin, &amp;ldquo;Asymptotically-Optimal Bottleneck
+Pathfinding with Applications to Fréchet Matching&amp;rdquo;, in
+&lt;em&gt;European Symposium on Algorithms&lt;/em&gt;, 2016.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Oren Salzman and Dan Halperin, &amp;ldquo;New Perspective
+on Sampling-Based Motion Planning via Random Geometric Graphs&amp;rdquo;,
+in &lt;em&gt;Robotics: Science and Systems&lt;/em&gt;, 2016.
+See related talk in the &lt;em&gt;Workshop on Random Geometric Graphs&lt;/em&gt;,
+Banff International Research Center,
+
+&lt;a href=&#34;http://www.birs.ca/events/2016/5-day-workshops/16w5095/videos/watch/201611111052-Solovey.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[video]&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt; and Dan Halperin, &amp;ldquo;On the Hardness of
+Unlabeled Multi-Robot Motion Planning&amp;rdquo;, in &lt;em&gt;Robotics: Science and Systems&lt;/em&gt;, &lt;strong&gt;best paper (finalist)&lt;/strong&gt;, &lt;strong&gt;best student paper&lt;/strong&gt;, 2015.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Jingjin Yu, Or Zamir and Dan Halperin,
+&amp;ldquo;Motion Planning for Unlabeled Discs with Optimality
+Guarantees&amp;rdquo;, in &lt;em&gt;Robotics: Science and Systems&lt;/em&gt;, 2015.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;*, Oren Salzman* and Dan Halperin (*equal
+contribution), &amp;ldquo;Finding a Needle in an Exponential Haystack:
+Discrete RRT for Exploration of Implicit Roadmaps in
+Multi-Robot Motion Planning&amp;rdquo;, in &lt;em&gt;Workshop on the Algorithmic Foundations of Robotics&lt;/em&gt;, 2014.&lt;/li&gt;
+&lt;li&gt;Aviv Adler, Mark de Berg, Dan Halperin and &lt;strong&gt;Kiril Solovey&lt;/strong&gt;
+(alphabetical order), &amp;ldquo;Efficient Multi-Robot Motion Planning
+for Unlabeled Discs in Simple Polygons&amp;rdquo;, in &lt;em&gt;Workshop on the Algorithmic
+Foundations of Robotics&lt;/em&gt;, 2014.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt; and Dan Halperin, &amp;ldquo;&lt;em&gt;k&lt;/em&gt;-Color Multi-Robot
+Motion Planning&amp;rdquo;, in &lt;em&gt;Workshop on the Algorithmic Foundations of Robotics&lt;/em&gt;,
+2012.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;book-chapters&#34;&gt;Book chapters&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dan Halperin, Lydia Kavraki and &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, &amp;ldquo;Chapter
+51: Robotics&amp;rdquo; in &lt;em&gt;Handbook of Discrete and Computational
+Geometry&lt;/em&gt;, 3rd Edition, CRC Press, 2016
+
+&lt;a href=&#34;http://www.csun.edu/~ctoth/Handbook/HDCG3.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[link]&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dissertations&#34;&gt;Dissertations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;, &amp;ldquo;Multi-robot Motion Planning: Theory and Practice&amp;rdquo;,
+Ph.D. thesis, Tel Aviv University, March 2018. Advisor:
+Prof. Dan Halperin
+
+&lt;a href=&#34;files/phd_thesis.pdf&#34;&gt;[pdf]&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;, &amp;ldquo;&lt;em&gt;k&lt;/em&gt;-Color Multi-Robot Motion Planning&amp;rdquo;,
+Master&amp;rsquo;s thesis, Tel Aviv University, February 2013. Advisor:
+Prof. Dan Halperin
+
+&lt;a href=&#34;http://acg.cs.tau.ac.il/projects/kcolor/thesis.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[pdf]&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;coauthors&#34;&gt;Coauthors&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://scholar.google.nl/citations?user=_fFmB3oAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aviv Adler&lt;/a&gt;,
+
+&lt;a href=&#34;https://il.linkedin.com/in/aviel-atias-b0430511a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aviel Atias&lt;/a&gt;,
+
+&lt;a href=&#34;https://www-robotics.jpl.nasa.gov/people/Saptarshi_Bandyopadhyay/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Saptarshi Bandyopadhyay&lt;/a&gt;,
+
+&lt;a href=&#34;https://robotics.cs.rutgers.edu/pracsys/members/kostas-bekris/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kostas Bekris&lt;/a&gt;,
+
+&lt;a href=&#34;https://www.win.tue.nl/~mdberg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mark de Berg&lt;/a&gt;,
+
+&lt;a href=&#34;https://rbonalli.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Riccardo Bonalli&lt;/a&gt;,
+
+&lt;a href=&#34;http://asl.stanford.edu/people/robin-brown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robin Brown&lt;/a&gt;,
+
+&lt;a href=&#34;https://web.stanford.edu/~shushman/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shushman Choudhury&lt;/a&gt;,
+
+&lt;a href=&#34;http://www.doctorandrewdobson.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Dobston&lt;/a&gt;,
+
+&lt;a href=&#34;https://idsc.ethz.ch/research-frazzoli.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emilio Frazzoli&lt;/a&gt;,
+
+&lt;a href=&#34;https://robotics.cs.rutgers.edu/pracsys/members/edgar-granados/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Edgar Granados&lt;/a&gt;,
+
+&lt;a href=&#34;http://acg.cs.tau.ac.il/danhalperin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dan Halperin&lt;/a&gt;,
+
+&lt;a href=&#34;http://lucasjanson.fas.harvard.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lucas Janson&lt;/a&gt;,
+
+&lt;a href=&#34;https://www.cs.rice.edu/~kavraki/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lydia Kavraki&lt;/a&gt;,
+
+&lt;a href=&#34;http://acg.cs.tau.ac.il/people/michal-kleinbort&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michal Kleinbort&lt;/a&gt;,
+
+&lt;a href=&#34;https://mykel.kochenderfer.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mykel Kochenderfer&lt;/a&gt;,
+
+&lt;a href=&#34;https://www.linkedin.com/in/zakary-littlefield-40a01826&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zakary Littlefield&lt;/a&gt;,
+
+&lt;a href=&#34;http://asl.stanford.edu/people/prof-marco-pavone/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Marco Pavone&lt;/a&gt;,
+
+&lt;a href=&#34;https://www.federico.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Federico Rossi&lt;/a&gt;,
+
+&lt;a href=&#34;https://ch.linkedin.com/in/mauro-salazar-a29b1691&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mauro Salazar&lt;/a&gt;,
+
+&lt;a href=&#34;http://orensalzman.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oren Salzman&lt;/a&gt;,
+
+&lt;a href=&#34;http://asl.stanford.edu/people/edward-schmerling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Edward Schmerling&lt;/a&gt;,
+
+&lt;a href=&#34;https://rahulsho.me/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rahul Shome&lt;/a&gt;,
+
+&lt;a href=&#34;http://asl.stanford.edu/people/matt-tsao/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matthew Tsao&lt;/a&gt;,
+
+&lt;a href=&#34;https://www-robotics.jpl.nasa.gov/people/Michael_Wolf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael T. Wolf&lt;/a&gt;,
+
+&lt;a href=&#34;http://jingjinyu.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jingjin Yu&lt;/a&gt;,
+
+&lt;a href=&#34;http://www.cs.tau.ac.il/~orzamir/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Or Zamir&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
