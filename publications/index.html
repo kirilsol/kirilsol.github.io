@@ -219,6 +219,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-152082661-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-152082661-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -580,11 +618,6 @@ Monotone Tabletop Setups&rdquo;, submitted to a special issue
 <strong>(invited)</strong> of <em>Transactions on Automation Science and
 Engineering</em>, 2020. 
 <a href="https://arxiv.org/abs/1810.12202" target="_blank" rel="noopener">[arxiv]</a></li>
-<li><strong>Kiril Solovey</strong>, &ldquo;Complexity of Planning&rdquo; in Section &ldquo;Motion
-Planning&rdquo;, in the <em>Encyclopedia of Robotics</em>, Eds. Marcelo H. Ang
-Jr., Oussama Khatib, and Bruno Siciliano; Section Ed. Lydia
-E. Kavraki. Springer Press. Submitted, 2020. 
-<a href="https://arxiv.org/abs/2003.03632" target="_blank" rel="noopener">[arxiv]</a></li>
 </ul>
 <h2 id="journals">Journals</h2>
 <ol>
@@ -710,6 +743,11 @@ Motion Planning&rdquo;, in <em>Workshop on the Algorithmic Foundations of Roboti
 </ol>
 <h2 id="book-chapters">Book chapters</h2>
 <ul>
+<li><strong>Kiril Solovey</strong>, &ldquo;Complexity of Planning&rdquo; in Section &ldquo;Motion
+Planning&rdquo;, in the <em>Encyclopedia of Robotics</em>, Eds. Marcelo H. Ang
+Jr., Oussama Khatib, and Bruno Siciliano; Section Ed. Lydia
+E. Kavraki. Springer Press. To appear, 2020. 
+<a href="https://arxiv.org/abs/2003.03632" target="_blank" rel="noopener">[arxiv]</a></li>
 <li>Dan Halperin, Lydia Kavraki and <strong>Kiril Solovey</strong>, &ldquo;Chapter
 51: Robotics&rdquo; in <em>Handbook of Discrete and Computational
 Geometry</em>, 3rd Edition, CRC Press, 2016
