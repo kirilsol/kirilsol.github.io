@@ -17,11 +17,9 @@
       <link>https://kirilsol.github.io/publications/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://kirilsol.github.io/publications/</guid>
-      <description>&lt;h2 id=&#34;manuscripts-and-under-review&#34;&gt;Manuscripts and under review&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Saptarshi Bandyopadhyay, Federico Rossi,
-Michael T. Wolf, and Marco Pavone, &amp;ldquo;Fast Near-Optimal Heterogeneous Task Allocation via Flow Decomposition&amp;rdquo;, 2020. [
-&lt;a href=&#34;https://kirilsol.github.io/files/Solovey.Bandyopadhyay.ETAL.2020.pdf&#34;&gt;pdf&lt;/a&gt;]&lt;/li&gt;
+      <description>&lt;!-- ## Manuscripts and under review --&gt;
+&lt;h2 id=&#34;journals&#34;&gt;Journals&lt;/h2&gt;
+&lt;ol&gt;
 &lt;li&gt;Shushman Choudhury, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Mykel Kochenderfer, and Marco
 Pavone, &amp;ldquo;Efficient Large-Scale Multi-Drone Delivery Using Transit
 Networks&amp;rdquo;, submitted to &lt;em&gt;Journal of Artificial Intelligence Research&lt;/em&gt;, 2020. [videos: 
@@ -41,9 +39,6 @@ Monotone Tabletop Setups&amp;rdquo;, submitted to a special issue
 &lt;strong&gt;(invited)&lt;/strong&gt; of &lt;em&gt;Transactions on Automation Science and
 Engineering&lt;/em&gt;, 2020. 
 &lt;a href=&#34;https://arxiv.org/abs/1810.12202&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;journals&#34;&gt;Journals&lt;/h2&gt;
-&lt;ol&gt;
 &lt;li&gt;Robin Brown, Federico Rossi, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;,  Matthew Tsao, Michael T. Wolf, and   Marco Pavone, &amp;ldquo;On Local Computation for Optimization in Multi-Agent Systems&amp;rdquo;, &lt;em&gt;Transactions on Control of Network Systems&lt;/em&gt;, to appear, 2020. 
 &lt;a href=&#34;https://arxiv.org/abs/2002.12313&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt; and Michal Kleinbort, &amp;ldquo;The Critical Radius
@@ -86,6 +81,11 @@ issue (&lt;strong&gt;invited&lt;/strong&gt;), 2014.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;peer-reviewed-conference-proceedings&#34;&gt;Peer-reviewed conference proceedings&lt;/h2&gt;
 &lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Saptarshi Bandyopadhyay, Federico Rossi,  Michael T. Wolf, and Marco Pavone, &amp;ldquo;Fast Near-Optimal Heterogeneous Task Allocation via Flow Decomposition&amp;rdquo;, submitted to &lt;em&gt;International Conference on Robotics and
+Automation&lt;/em&gt;, 2021. 
+&lt;a href=&#34;https://kirilsol.github.io/files/Solovey.Bandyopadhyay.ea.ICRA21.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dror Dayan, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Marco Pavone, and Dan Halperin, &amp;ldquo;Near-Optimal Multi-Robot Motion Planning with Finite Sampling&amp;rdquo;,  submitted to &lt;em&gt;International Conference on Robotics and Automation&lt;/em&gt;, 2021. 
+&lt;a href=&#34;https://kirilsol.github.io/files/Dayan.Solovey.ea.ICRA21.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Matthew Tsao, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, and Marco Pavone, &amp;ldquo;Sample
 Complexity of Probabilistic Roadmaps via Epsilon-nets&amp;rdquo;, in  &lt;em&gt;International Conference on Robotics and Automation&lt;/em&gt;, 2020. [
 &lt;a href=&#34;https://www.youtube.com/watch?v=dk3zduYNMYk&amp;amp;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;], 
@@ -102,8 +102,8 @@ Automation&lt;/em&gt;, 2020.
 &lt;a href=&#34;https://arxiv.org/abs/1909.05569&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Lucas Janson, Edward Schmerling, Emilio Frazzoli,
 and Marco Pavone, &amp;ldquo;Revisiting the Asymptotic Optimality of RRT*&amp;rdquo;,
-in &lt;em&gt;International Conference on Robotics and Automation&lt;/em&gt;, 2020. [
-&lt;a href=&#34;https://www.youtube.com/watch?v=SG9irSYCr7E&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;], 
+in &lt;em&gt;International Conference on Robotics and Automation&lt;/em&gt;, 2020. 
+&lt;a href=&#34;https://www.youtube.com/watch?v=SG9irSYCr7E&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[video]&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1909.09688&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Robin Brown, Federico Rossi, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Michael T. Wolf, and
 Marco Pavone, &amp;ldquo;Exploiting Locality and Structure for Distributed
@@ -169,7 +169,7 @@ Motion Planning&amp;rdquo;, in &lt;em&gt;Workshop on the Algorithmic Foundations
 &lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;, &amp;ldquo;Complexity of Planning&amp;rdquo; in Section &amp;ldquo;Motion
 Planning&amp;rdquo;, in the &lt;em&gt;Encyclopedia of Robotics&lt;/em&gt;, Eds. Marcelo H. Ang
 Jr., Oussama Khatib, and Bruno Siciliano; Section Ed. Lydia
-E. Kavraki. Springer Press. To appear, 2020. 
+E. Kavraki. Springer Press, to appear, 2020. 
 &lt;a href=&#34;https://arxiv.org/abs/2003.03632&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Dan Halperin, Lydia Kavraki and &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, &amp;ldquo;Chapter
 51: Robotics&amp;rdquo; in &lt;em&gt;Handbook of Discrete and Computational
@@ -208,6 +208,7 @@ Prof. Dan Halperin
 &lt;a href=&#34;http://asl.stanford.edu/people/robin-brown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robin Brown&lt;/a&gt;,
 
 &lt;a href=&#34;https://web.stanford.edu/~shushman/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shushman Choudhury&lt;/a&gt;,
+Dror Dayan,
 
 &lt;a href=&#34;http://www.doctorandrewdobson.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Dobston&lt;/a&gt;,
 
