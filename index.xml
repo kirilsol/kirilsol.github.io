@@ -5,7 +5,7 @@
     <link>https://kirilsol.github.io/</link>
       <atom:link href="https://kirilsol.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Kiril Solovey</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kirilsol.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Kiril Solovey</title>
@@ -22,7 +22,7 @@
 &lt;ol&gt;
 &lt;li&gt;Shushman Choudhury, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Mykel Kochenderfer, and Marco
 Pavone, &amp;ldquo;Efficient Large-Scale Multi-Drone Delivery Using Transit
-Networks&amp;rdquo;, submitted to &lt;em&gt;Journal of Artificial Intelligence Research&lt;/em&gt;, 2020. [videos: 
+Networks&amp;rdquo;, &lt;em&gt;Journal of Artificial Intelligence Research&lt;/em&gt;, 2020. [videos: 
 &lt;a href=&#34;https://youtu.be/2U8jI-n9Ulk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;short&lt;/a&gt;, 
 &lt;a href=&#34;https://www.youtube.com/watch?v=w7b6a-Rzu3o&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;long&lt;/a&gt;], 
 &lt;a href=&#34;https://arxiv.org/abs/1909.11840&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;   &lt;br&gt;
@@ -35,7 +35,7 @@ Networks&amp;rdquo;, submitted to &lt;em&gt;Journal of Artificial Intelligence R
 &lt;a href=&#34;https://interestingengineering.com/your-delivery-drones-could-soon-be-taking-the-bus-to-save-both-time-and-fuel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Interesting Engineering&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Rahul Shome, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Jingjin Yu, Dan Halperin, and Kostas
 Bekris, &amp;ldquo;Fast, High-Quality Dual-Arm Rearrangement in Synchronous,
-Monotone Tabletop Setups&amp;rdquo;, submitted to a special issue
+Monotone Tabletop Setups&amp;rdquo;, special issue
 &lt;strong&gt;(invited)&lt;/strong&gt; of &lt;em&gt;Transactions on Automation Science and
 Engineering&lt;/em&gt;, 2020. 
 &lt;a href=&#34;https://arxiv.org/abs/1810.12202&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;&lt;/li&gt;
@@ -81,10 +81,10 @@ issue (&lt;strong&gt;invited&lt;/strong&gt;), 2014.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;peer-reviewed-conference-proceedings&#34;&gt;Peer-reviewed conference proceedings&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Saptarshi Bandyopadhyay, Federico Rossi,  Michael T. Wolf, and Marco Pavone, &amp;ldquo;Fast Near-Optimal Heterogeneous Task Allocation via Flow Decomposition&amp;rdquo;, submitted to &lt;em&gt;International Conference on Robotics and
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Saptarshi Bandyopadhyay, Federico Rossi,  Michael T. Wolf, and Marco Pavone, &amp;ldquo;Fast Near-Optimal Heterogeneous Task Allocation via Flow Decomposition&amp;rdquo;, &lt;em&gt;International Conference on Robotics and
 Automation&lt;/em&gt;, 2021. 
 &lt;a href=&#34;https://kirilsol.github.io/files/Solovey.Bandyopadhyay.ea.ICRA21.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Dror Dayan, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Marco Pavone, and Dan Halperin, &amp;ldquo;Near-Optimal Multi-Robot Motion Planning with Finite Sampling&amp;rdquo;,  submitted to &lt;em&gt;International Conference on Robotics and Automation&lt;/em&gt;, 2021. 
+&lt;li&gt;Dror Dayan, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Marco Pavone, and Dan Halperin, &amp;ldquo;Near-Optimal Multi-Robot Motion Planning with Finite Sampling&amp;rdquo;,  &lt;em&gt;International Conference on Robotics and Automation&lt;/em&gt;, 2021. 
 &lt;a href=&#34;https://kirilsol.github.io/files/Dayan.Solovey.ea.ICRA21.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Matthew Tsao, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, and Marco Pavone, &amp;ldquo;Sample
 Complexity of Probabilistic Roadmaps via Epsilon-nets&amp;rdquo;, in  &lt;em&gt;International Conference on Robotics and Automation&lt;/em&gt;, 2020. [
@@ -101,7 +101,7 @@ Bekris, and Dan Halperin, &amp;ldquo;Refined Analysis of Asymptotically-Optimal 
 Automation&lt;/em&gt;, 2020. 
 &lt;a href=&#34;https://arxiv.org/abs/1909.05569&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Lucas Janson, Edward Schmerling, Emilio Frazzoli,
-and Marco Pavone, &amp;ldquo;Revisiting the Asymptotic Optimality of RRT*&amp;rdquo;,
+and Marco Pavone, &amp;ldquo;Revisiting the Asymptotic Optimality of RRT*&amp;quot;,
 in &lt;em&gt;International Conference on Robotics and Automation&lt;/em&gt;, 2020. 
 &lt;a href=&#34;https://www.youtube.com/watch?v=SG9irSYCr7E&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[video]&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1909.09688&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;&lt;/li&gt;
