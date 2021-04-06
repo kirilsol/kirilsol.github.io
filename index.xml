@@ -79,16 +79,19 @@ Automation Science and Engineering&lt;/em&gt;, special issue
 Planning&amp;rdquo;, &lt;em&gt;International Journal on Robotics Research&lt;/em&gt;, special
 issue (&lt;strong&gt;invited&lt;/strong&gt;), 2014.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;peer-reviewed-conference-proceedings&#34;&gt;Peer-reviewed conference proceedings&lt;/h2&gt;
+&lt;h2 id=&#34;conference-proceedings&#34;&gt;Conference proceedings&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Saptarshi Bandyopadhyay, Federico Rossi,  Michael T. Wolf, and Marco Pavone, &amp;ldquo;Fast Near-Optimal Heterogeneous Task Allocation via Flow Decomposition&amp;rdquo;, &lt;em&gt;International Conference on Robotics and
-Automation&lt;/em&gt;, 2021. 
-&lt;a href=&#34;https://kirilsol.github.io/files/Solovey.Bandyopadhyay.ea.ICRA21.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Devansh Jalota, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Stephen Zoepf, Marco Pavone, &amp;ldquo;Balancing Fairness and Efficiency in Traffic Routing via Interpolated Traffic Assignment&amp;rdquo;, submitted to &lt;em&gt;Conference on Decision and Control&lt;/em&gt;, 2021. 
+&lt;a href=&#34;https://arxiv.org/abs/2104.00098&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;, 
+&lt;a href=&#34;https://github.com/StanfordASL/frank-wolfe-traffic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[code1]&lt;/a&gt;, 
+&lt;a href=&#34;https://github.com/StanfordASL/fair-routing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[code2]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Saptarshi Bandyopadhyay, Federico Rossi,  Michael T. Wolf, and Marco Pavone, &amp;ldquo;Fast Near-Optimal Heterogeneous Task Allocation via Flow Decomposition&amp;rdquo;, &lt;em&gt;International Conference on Robotics and Automation&lt;/em&gt;, 2021. 
+&lt;a href=&#34;https://arxiv.org/abs/2011.03603&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Dror Dayan, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Marco Pavone, and Dan Halperin, &amp;ldquo;Near-Optimal Multi-Robot Motion Planning with Finite Sampling&amp;rdquo;,  &lt;em&gt;International Conference on Robotics and Automation&lt;/em&gt;, 2021. 
 &lt;a href=&#34;https://kirilsol.github.io/files/Dayan.Solovey.ea.ICRA21.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Matthew Tsao, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, and Marco Pavone, &amp;ldquo;Sample
-Complexity of Probabilistic Roadmaps via Epsilon-nets&amp;rdquo;, in  &lt;em&gt;International Conference on Robotics and Automation&lt;/em&gt;, 2020. [
-&lt;a href=&#34;https://www.youtube.com/watch?v=dk3zduYNMYk&amp;amp;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video&lt;/a&gt;], 
+Complexity of Probabilistic Roadmaps via Epsilon-nets&amp;rdquo;, in  &lt;em&gt;International Conference on Robotics and Automation&lt;/em&gt;, 2020. 
+&lt;a href=&#34;https://www.youtube.com/watch?v=dk3zduYNMYk&amp;amp;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[video]&lt;/a&gt;, 
 &lt;a href=&#34;https://arxiv.org/abs/1909.06363&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Shushman Choudhury, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Mykel Kochenderfer, and Marco
 Pavone, &amp;ldquo;Efficient Large-Scale Multi-Drone Delivery Using Transit
@@ -116,7 +119,7 @@ Congestion-aware Routing for Autonomous Mobility-on-Demand via
 Frank-Wolfe Optimization&amp;rdquo;, in &lt;em&gt;Robotics: Science and
 Systems&lt;/em&gt;, 2019. 
 &lt;a href=&#34;https://arxiv.org/abs/1903.03697&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[arxiv]&lt;/a&gt;, 
-&lt;a href=&#34;files/slides-2019-fw-amod.pdf&#34;&gt;[slides]&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://github.com/StanfordASL/frank-wolfe-traffic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[code]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Michal Kleinbort, &lt;strong&gt;Kiril Solovey&lt;/strong&gt;, Zakary Littlefield, Kostas
 Bekris, and Dan Halperin, &amp;ldquo;Probabilistic completeness of RRT for
 geometric and kinodynamic planning with forward propagation.&amp;rdquo; In
@@ -220,6 +223,8 @@ Dror Dayan,
 
 &lt;a href=&#34;http://lucasjanson.fas.harvard.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lucas Janson&lt;/a&gt;,
 
+&lt;a href=&#34;http://asl.stanford.edu/people/devansh-jalota/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Devansh Jalota&lt;/a&gt;,
+
 &lt;a href=&#34;https://www.cs.rice.edu/~kavraki/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lydia Kavraki&lt;/a&gt;,
 
 &lt;a href=&#34;http://acg.cs.tau.ac.il/people/michal-kleinbort&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michal Kleinbort&lt;/a&gt;,
@@ -246,7 +251,9 @@ Dror Dayan,
 
 &lt;a href=&#34;http://jingjinyu.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jingjin Yu&lt;/a&gt;,
 
-&lt;a href=&#34;http://www.cs.tau.ac.il/~orzamir/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Or Zamir&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;http://www.cs.tau.ac.il/~orzamir/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Or Zamir&lt;/a&gt;,
+
+&lt;a href=&#34;https://cars.stanford.edu/people/stephen-zoepf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stephen Zoepf&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
