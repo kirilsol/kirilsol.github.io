@@ -1,4 +1,8 @@
 **/*.min.css
 **/*.min.js
+**/*.scss
+**/*.liquid
+**/*.yml
 assets/css/main.scss
 assets/plotly/demo.html
+**/*.md
