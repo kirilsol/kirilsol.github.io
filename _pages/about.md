@@ -19,11 +19,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 {: style="text-align: justify" }
-I'm an Assistant Professor in ECE at the Technion where I lead the **[Multi-Robot Systems Lab](https://mrstechnion.github.io)**. 
-My research draws upon ideas across the disciplines of computer science, engineering, and transportation science, to develop scalable algorithms with substantial guarantees for control and decision-making of multi-robot systems.
+I'm an Assistant Professor at Technion ECE where I lead the **[Multi-Robot Systems Lab](https://mrstechnion.github.io)**. 
+My research draws upon ideas across the disciplines of computer science, engineering, and transportation science, to develop scalable algorithms with substantial guarantees for control and decision-making of multi-robot systems. To find out about more about my group and teaching activities check out my lab's [page](https://mrstechnion.github.io).
 
 {: style="text-align: justify" }
-I obtained BSc, MSc, and PhD degrees in Computer Science from Tel Aviv University, where I was advised by [Dan Halperin](https://www.cgl.cs.tau.ac.il/people/dan-halperin/). I was a postdoc in Aeronautics and Astronautics, Stanford, with [Marco Pavone](http://asl.stanford.edu/people/), and briefly in Computer Science, Technion, with [Oren Salzman](https://orensalzman.com/). For my academic work I received multiple awards, including the [Clore Scholars](https://clorefoundation.org.il/clore-scholars-programme/) and [Fulbright Postdoctoral](https://www.fulbright.org.il/) Fellowships, best paper awards and nominations, and teaching awards. At the Technion I'm a member of the Autonomous Systems Program ([TASP](https://tasp.technion.ac.il/)) and the Artificial Intelligence Hub ([Tech.AI](https://tech-ai.technion.ac.il/)).
+I obtained BSc, MSc, and PhD degrees in Computer Science from Tel Aviv University, where I was advised by [Dan Halperin](https://www.cgl.cs.tau.ac.il/people/dan-halperin/). I was a postdoc in Aeronautics and Astronautics, Stanford, with [Marco Pavone](http://asl.stanford.edu/people/), and briefly in Computer Science, Technion, with [Oren Salzman](https://orensalzman.com/). For my academic work I received multiple awards, including the [Clore Scholars](https://clorefoundation.org.il/clore-scholars-programme/) and [Fulbright Postdoctoral](https://www.fulbright.org.il/) Fellowships, best paper awards and nominations, and teaching awards. I'm affiliated with Tech.AI, the [Autonomous Systems Program](https://tasp-technion.org), and the [Applied Mathematics Program](https://math.technion.ac.il/labs/applied-math/en/).
 
 {: style="text-align: justify" }
 Besides my academic interests, I take pleasure in being outdoors (mountain biking :mountain_bicyclist: and hiking :national_park:), traveling around the world :cityscape:, and enjoy food and cooking :bento:, music :notes:, books :books:, and meditation :cloud:.
