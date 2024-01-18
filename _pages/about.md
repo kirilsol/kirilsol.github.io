@@ -26,7 +26,7 @@ My research draws upon ideas across the disciplines of computer science, enginee
 I obtained BSc, MSc, and PhD degrees in Computer Science from Tel Aviv University, where I was advised by [Dan Halperin](https://www.cgl.cs.tau.ac.il/people/dan-halperin/). I was a postdoc in Aeronautics and Astronautics, Stanford, with [Marco Pavone](http://asl.stanford.edu/people/), and briefly in Computer Science, Technion, with [Oren Salzman](https://orensalzman.com/). For my academic work I received multiple awards, including the [Clore Scholars](https://clorefoundation.org.il/clore-scholars-programme/) and [Fulbright Postdoctoral](https://www.fulbright.org.il/) Fellowships, best paper awards and nominations, and teaching awards. I'm affiliated with Tech.AI, the [Autonomous Systems Program](https://tasp-technion.org), and the Applied Mathematics Program. 
 
 {: style="text-align: justify" }
-Outside of my academic life, I live in Haifa on Mt. Carmel :mountain: with my incredible spouse [Nadia Belking](https://www.linkedin.com/in/nadia-belkind/). I take pleasure in being outdoors (mountain biking :mountain_bicyclist: and hiking :national_park:), traveling around the world :cityscape:, and enjoy food and cooking :bento:, music :notes:, books :books:, and meditation :cloud:.
+I live in Haifa on Mt. Carmel :mountain: with my incredible spouse [Nadia Belkind](https://www.linkedin.com/in/nadia-belkind/). I take pleasure in being outdoors (mountain biking :mountain_bicyclist: and hiking :national_park:), traveling around the world :cityscape:, and enjoy food and cooking :bento:, music :notes:, books :books:, and meditation :cloud:.
 
 <br> <br>
 
