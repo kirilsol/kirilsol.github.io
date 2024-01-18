@@ -28,7 +28,11 @@ I obtained BSc, MSc, and PhD degrees in Computer Science from Tel Aviv Universit
 {: style="text-align: justify" }
 I live in Haifa on Mt. Carmel :mountain: with my incredible spouse [Nadia Belkind](https://www.linkedin.com/in/nadia-belkind/). I take pleasure in being outdoors (mountain biking :mountain_bicyclist: and hiking :national_park:), traveling around the world :cityscape:, and enjoy food and cooking :bento:, music :notes:, books :books:, and meditation :cloud:.
 
-<br> <br>
+<br>
+
+<br>
+
+<br>
 
 {: style="text-align: justify" }
 :wave: __I'm recruiting to my team MSc, PhD students and PostDocs with strong background in math, algorithms, optimization, and robotics to work on  autonomous racing and driving :checkered_flag:, smart mobility :oncoming_automobile:, and multi-robot motion planinng :robot:__
