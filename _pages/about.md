@@ -6,7 +6,7 @@ subtitle:  <p><strong><a href="https://ece.technion.ac.il/">Electrical and Compu
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: kiril_catba_crop.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>kirilsol@technion.ac.il</p>
@@ -26,7 +26,9 @@ My research draws upon ideas across the disciplines of computer science, enginee
 I obtained BSc, MSc, and PhD degrees in Computer Science from Tel Aviv University, where I was advised by [Dan Halperin](https://www.cgl.cs.tau.ac.il/people/dan-halperin/). I was a postdoc in Aeronautics and Astronautics, Stanford, with [Marco Pavone](http://asl.stanford.edu/people/), and briefly in Computer Science, Technion, with [Oren Salzman](https://orensalzman.com/). For my academic work I received multiple awards, including the [Clore Scholars](https://clorefoundation.org.il/clore-scholars-programme/) and [Fulbright Postdoctoral](https://www.fulbright.org.il/) Fellowships, best paper awards and nominations, and teaching awards. I'm affiliated with Tech.AI, the [Autonomous Systems Program](https://tasp-technion.org), and the Applied Mathematics Program. 
 
 {: style="text-align: justify" }
-Besides my academic interests, I take pleasure in being outdoors (mountain biking :mountain_bicyclist: and hiking :national_park:), traveling around the world :cityscape:, and enjoy food and cooking :bento:, music :notes:, books :books:, and meditation :cloud:.
+Outside of my academic life, I live in Haifa on Mt. Carmel :mountain: with my incredible spouse [Nadia Belking](https://www.linkedin.com/in/nadia-belkind/). I take pleasure in being outdoors (mountain biking :mountain_bicyclist: and hiking :national_park:), traveling around the world :cityscape:, and enjoy food and cooking :bento:, music :notes:, books :books:, and meditation :cloud:.
+
+<br> <br>
 
 {: style="text-align: justify" }
 :wave: __I'm recruiting to my team MSc, PhD students and PostDocs with strong background in math, algorithms, optimization, and robotics to work on  autonomous racing and driving :checkered_flag:, smart mobility :oncoming_automobile:, and multi-robot motion planinng :robot:__
