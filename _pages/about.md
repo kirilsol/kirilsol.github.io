@@ -6,7 +6,7 @@ subtitle:  <p><strong><a href="https://ece.technion.ac.il/">Electrical and Compu
 
 profile:
   align: right
-  image: ../assets/img/courses/multi_robot_systems.png
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>kirilsol@technion.ac.il</p>
